@@ -9,7 +9,7 @@ layout: home
 1. **능력치 기록하기**: 네 가지의 능력치는 0에서 시작합니다. +3, +2, +1, +0을 원하는 능력치에 각각 더하세요.
 
 
-<div class="0" markdown="1" font_size: 10>
+<div class="0" markdown="1" font_size="10">
  
 _능력치. 네 가지 능력치가 있습니다._
  
