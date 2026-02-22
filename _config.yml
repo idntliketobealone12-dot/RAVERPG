@@ -1,11 +1,12 @@
 title: RAVERPG
 description: ""
 theme: just-the-docs
-color_scheme: dark
+
 
 
 url: "https://idntliketobealone12-dot.github.io"
 baseurl: "/RAVERPG"
+color_scheme: dark
 
 aux_links:
   Template Repository: "https://github.com/just-the-docs/just-the-docs-template"
