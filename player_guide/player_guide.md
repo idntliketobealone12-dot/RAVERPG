@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: 플레이어 가이드
 has_children: true
 nav_order: 2
